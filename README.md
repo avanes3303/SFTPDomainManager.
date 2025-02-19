@@ -1,1 +1,1 @@
-# SFTPDomainManager.
+# SFTPDomainManager
